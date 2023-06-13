@@ -1,0 +1,7 @@
+name: Aplicação de teste
+db:
+  porta: 5432
+  url: localhost
+  user: postgres
+  password: postgres
+  db_name: python
